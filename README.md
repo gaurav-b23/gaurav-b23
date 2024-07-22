@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurav-b23
 - 👀 I’m interested in learning tech 
-- 🌱 I’m currently learning DS & improving my skills 
+- 🌱 I’m currently learning  & improving my skills 
 - 💞️ I’m looking to collaborate on something big as a project
 - 📫 Reach me through mail
 
